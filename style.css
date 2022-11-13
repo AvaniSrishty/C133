@@ -1,0 +1,41 @@
+.heading{
+    width: 60%;
+    background: none;
+    font-size: 30px;
+    color: rgb(63, 62, 62);
+    box-shadow: 8px 9px 25px rgb(84, 81, 81);
+    border-radius: 20px;
+
+}
+
+
+
+.anchor{
+font-size: 20px;
+background: lightgray;
+border-radius: 10px;
+width: 300px;
+margin-top: 20px;
+box-shadow: 8px 9px 25px rgb(207, 205, 205);
+}
+
+.link{
+    float: right;
+    width:80px;
+    font-size: 20px;
+    margin-right: 40px;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
+
+#status{
+    width: 400px;
+    font-size: 20px;
+    box-shadow: 8px 5px 25px rgb(135, 207, 235);
+}
+
+canvas{
+    border-radius: 20px;
+    border: solid 2px black;
+}
